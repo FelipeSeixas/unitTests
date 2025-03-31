@@ -1,6 +1,5 @@
 # unitTests
-Unit testes Junit /Testes unitários
-
-Exemplos baseado em minha experiência profissional.
-Linguagem: Java
-Biblioteca: Junit e Mockito.
+Owner build - Professional experience
+Lib´s/tools: Junit e Mockito.
+Language: Kotlin
+Arquiteture: MVVM (repository and ViewModel)
